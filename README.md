@@ -6,7 +6,7 @@ Any questions or concerns about this project? Feel free to contact me, I'm an op
 Kelli Shaffer
 615-419-2549
 KLShaffer93@gmail.com
-[linkedin.com/in/kellishaffer]
+linkedin.com/in/kellishaffer
 
 ---
 
@@ -58,3 +58,4 @@ For this exericse, you'll be working with a database derived from the [Medicare 
     
 
     c. Finally, if you have not done so already, fill in any missing values for total_claim_count with 0. Hint - Google the COALESCE function.
+
