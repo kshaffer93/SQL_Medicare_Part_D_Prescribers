@@ -3,9 +3,9 @@
 This exercise was originally completed as part of the NSS Data Analytics 14 Cohort in Fedbruary 2025. This file has been reuploaded and pinned for visibility from an originally Private Repository. 
 Any questions or concerns about this project? Feel free to contact me, I'm an open book!
 
-Kelli Shaffer
-615-419-2549
-KLShaffer93@gmail.com
+Kelli Shaffer__
+615-419-2549__
+KLShaffer93@gmail.com__
 linkedin.com/in/kellishaffer
 
 ---
@@ -58,4 +58,5 @@ For this exericse, you'll be working with a database derived from the [Medicare 
     
 
     c. Finally, if you have not done so already, fill in any missing values for total_claim_count with 0. Hint - Google the COALESCE function.
+
 
