@@ -1,5 +1,15 @@
 ## Prescribers Database
 
+This exercise was originally completed as part of the NSS Data Analytics 14 Cohort in Fedbruary 2025. This file has been reuploaded and pinned for visibility from an originally Private Repository. 
+Any questions or concerns about this project? Feel free to contact me, I'm an open book!
+
+Kelli Shaffer
+615-419-2549
+KLShaffer93@gmail.com
+[linkedin.com/in/kellishaffer]
+
+---
+
 For this exericse, you'll be working with a database derived from the [Medicare Part D Prescriber Public Use File](https://www.hhs.gov/guidance/document/medicare-provider-utilization-and-payment-data-part-d-prescriber-0). More information about the data is contained in the Methodology PDF file. See also the included entity-relationship diagram.
 
 1. 
@@ -46,4 +56,5 @@ For this exericse, you'll be working with a database derived from the [Medicare 
 
     b. Next, report the number of claims per drug per prescriber. Be sure to include all combinations, whether or not the prescriber had any claims. You should report the npi, the drug name, and the number of claims (total_claim_count).
     
+
     c. Finally, if you have not done so already, fill in any missing values for total_claim_count with 0. Hint - Google the COALESCE function.
